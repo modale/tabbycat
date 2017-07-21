@@ -4,16 +4,16 @@
 Tournament Logistics
 ====================
 
-Unlike the rest of our documentation this section does not concern particular features or technical concerns with Tabbycat itself. Instead it is an attempt to outline the logistics of tab direction and aims to be of general relevance for people running medium and large tournaments. At present it is organised by the various ‘stages' of tabbing a tournament, and most of the content takes the form of check-lists or comments designed to highlight and provide guidance on common issues. To reduce clutter in the rest of the documentation it is formatted as a single page; using the sub-sections in the sidebar is recommended for navigating across sections.
+Unlike the rest of our documentation this section does not concern particular features or technical concerns with Tabbycat itself. Instead it is an attempt to outline the logistics of tab direction and aims to be of general relevance for people running medium and large tournaments. At present it is organised by the various ‘stages' of tabbing a tournament, and most  content takes the form of check-lists or comments designed to highlight and provide guidance on common issues. To reduce clutter in the rest of the documentation it is formatted as a single page; using the sub-sections in the sidebar is recommended for navigating across sections.
 
-While it aims for general relevance, we should note that it is relatively opinionated and mostly written from the perspective of people whose primary experience is tabbing at Australasian tournaments using Tabbycat. That said we welcome feedback and additions that can account for different format and regional considerations. In the future, if the guide becomes more general and more extensive, it could be spun off into a separate project.
+While this guide aims for general relevance, we should note that it is relatively opinionated and written mostly from the perspective of people whose primary experience is tabbing at Australasian tournaments using Tabbycat. That said we welcome feedback and additions that can account for different format and regional considerations. In the future, if the guide becomes more general and more extensive, it could be spun off into a separate project.
 
 .. note:: As with the rest of our documentation, this page is open-source and we welcome :ref:`feedback and contributions <contributing>`.
 
 Planning and Preparation
 ========================
 
-This section aims to outline concerns that occur in the months before the tournament: after you have agreed to help with tabbing and while the org-com and adj-core are deciding how they want to run key processes such as registration and feedback. It is organised in terms of who you should coordinate with to in order to plan for a well-tabbed tournament along with some general concerns.
+This section aims to outline concerns that occur in the months before the tournament: after you have agreed to help with tabbing and while the org-com and adj-core are deciding how they want to run key processes such as registration and feedback. It is organised in terms of who you should coordinate with in order to plan for a well-tabbed tournament.
 
 General
 -------
